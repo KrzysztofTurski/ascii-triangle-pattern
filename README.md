@@ -1,11 +1,14 @@
 # ascii-triangle-pattern
 Program C generates a visually appealing ASCII triangle pattern using letters.
 
+
 ## Example Output
      A
     ABA
    ABCBA
   ABCDCBA
+
+
 
 ## Compilation and Execution
 To compile and run this program, use:
