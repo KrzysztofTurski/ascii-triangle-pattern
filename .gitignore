@@ -3,6 +3,8 @@
 
 # Object files
 *.o
+*.o ascii_triangle
+
 *.ko
 *.obj
 *.elf
