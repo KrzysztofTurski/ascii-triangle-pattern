@@ -7,7 +7,6 @@ Program C generates a visually appealing ASCII triangle pattern using letters.
    ABA
   ABCBA 
 
-
 ## Compilation and Execution
 To compile and run this program, use:
 ```bash
