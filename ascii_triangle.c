@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_ROWS 5 // Number of rows in the triangle
+#define MAX_ROWS 15 // Number of rows in the triangle
 
 int main(void) {
     char result[500] = "";  // Array to store the resulting string
