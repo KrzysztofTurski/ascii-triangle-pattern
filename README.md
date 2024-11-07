@@ -13,7 +13,7 @@ gcc -o ascii_triangle main.c
 
 Hello! I'm Kris, a passionate software developer with a love for C/C++ programming. 
 
-- GitHub: KRZYSZTOF TURSKI https://github.com/KrzysztofTurski/RemoteRepo
+- GitHub: KRZYSZTOF TURSKI https://github.com/KrzysztofTurski
 
 - Email: krzysztof.turski40@gmail.com
 
