@@ -11,7 +11,7 @@ gcc -o ascii_triangle main.c
 
 ## „Contact”
 
-Hello! I'm Kris, a passionate software developer with a love for C/C++ programming. 
+Hello! I'm Kris, a passionate software developer C/C++ programming. 
 
 - GitHub: KRZYSZTOF TURSKI https://github.com/KrzysztofTurski
 
