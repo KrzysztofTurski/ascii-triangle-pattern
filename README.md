@@ -3,11 +3,9 @@ Program C generates a visually appealing ASCII triangle pattern using letters.
 
 
 ## Example Output
-     A
-    ABA
-   ABCBA
-  ABCDCBA
-
+    A
+   ABA
+  ABCBA 
 
 
 ## Compilation and Execution
