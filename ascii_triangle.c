@@ -30,7 +30,7 @@ int main(void) {
         // Increment the starting letter for the next row
         letter3++;
 
-        // Move to the next line after finishing the current row
+        
         printf("\n");
     }
 
