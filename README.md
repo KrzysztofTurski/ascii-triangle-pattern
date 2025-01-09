@@ -1,4 +1,5 @@
 # ascii-triangle-pattern
+FOR FUN...
 Program C generates a visually appealing ASCII triangle pattern using letters.
 
 
